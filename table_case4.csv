@@ -1,0 +1,5 @@
+Algorithm,Run 1 (µs),Run 2 (µs),Run 3 (µs),Average (µs),Comparisons,Extra memory (bytes),Recursion depth
+Selection Sort,219.96,205.98,206.32,210.75,4950,128,1
+Bubble Sort,487.26,461.29,482.3,476.95,4950,128,1
+Quick Sort,769.74,488.13,289.27,515.71,4950,88,100
+Merge Sort,106.45,103.68,110.17,106.77,356,1608,8
